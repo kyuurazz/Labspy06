@@ -13,7 +13,7 @@
 ## Latihan 1
 Konsep Program:
 
-![Gambar 1](Screenshots/Konsep_Program.png)
+![Gambar 1](Screenshots/Konsep%20Program.png)
 
 Penjelasan:
 
@@ -55,7 +55,7 @@ print(d("Bilal"))
 
 OUTPUT
 
-![Gambar 2](Screenshots/Output_Latihan1.png)
+![Gambar 2](Screenshots/Output%20Latihan1.png)
 
 ## Praktikum
 
@@ -103,7 +103,7 @@ def tidakAdaData():
 
 Output Tambah Data
 
-![Gambar 3](Screenshots/Tambah_Data.png)
+![Gambar 3](Screenshots/Tambah%20Data.png)
 
  #### Lihat()
  1) Apabila Dict `Data_Mahasiswa` masih kosong maka akan memanggil function `tidakAdaData`
@@ -116,7 +116,7 @@ Output Tambah Data
  
 Output Tidak Ada Data
 
-![Gambar 4](Screenshots/Tidak_Ada_Data.png)
+![Gambar 4](Screenshots/Tidak%20Ada%20Data.png)
 
 2) Program Lihat Data Dijalankan
 - Menggunakan looping untuk mengeluarkan data
@@ -133,7 +133,7 @@ else:
 
 Ouput Jika Data Diinputkan
 
-![Gambar 5](Screenshots/Lihat_Data.png)
+![Gambar 5](Screenshots/Lihat%20Data.png)
 
 #### Ubah()
 1) Apabila Dict `Data_Mahasiswa` masih kosong maka akan memanggil function `tidakAdaData`
@@ -182,7 +182,7 @@ else:
 
 Output Ubah Nama
 
-![Gambar 6](Screenshots/Ubah_Nama.png)
+![Gambar 6](Screenshots/Ubah%20Nama.png)
 
 ##### Ubah NIM
 Memasukan NIM baru, NIM akan berubah, maka akan mengeluarkan "Berhasil merubah NIM!"
@@ -195,7 +195,7 @@ elif tanya == 2:
 
 Output Ubah NIM
 
-![Gambar 7](Screenshots/Ubah_NIM.png)
+![Gambar 7](Screenshots/Ubah%20NIM.png)
 
 ##### Ubah Nilai
 Memasukan nilai baru, nilai akan berubah, maka akan mengeluarkan "Berhasil merubah data nilai!"
@@ -211,7 +211,7 @@ elif tanya == 3:
 
 Output Ubah Nilai
 
-![Gambar 8](Screenshots/Ubah_Nilai.png)
+![Gambar 8](Screenshots/Ubah%20Nilai.png)
 
 #### Hapus()
 1) Apabila Dict `Data_Mahasiswa` masih kosong maka akan memanggil function `tidakAdaData`
@@ -237,7 +237,7 @@ else:
 
 Output Hapus Data
 
-![Gambar 9](Screenshots/Hapus_Data.png)
+![Gambar 9](Screenshots/Hapus%20Data.png)
 
 #### Menu
 - Menggunakan infinite loop sampai loopnya jadi false
