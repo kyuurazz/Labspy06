@@ -47,9 +47,9 @@ d = lambda s: "".join(set(s))
 
 3. Pemanggilan function lambda
 ```python
-print(a(100))
-print(b(5, 20))
-print(c(-2, 10, 9, 7))
+print(a(50))
+print(b(10 , 25))
+print(c(-2, 30, 6, 8))
 print(d("Bilal"))
 ```
 
