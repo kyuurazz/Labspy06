@@ -1,4 +1,4 @@
-# Pertemuan 10
+# Pertemuan 11
 ## Daftar isi
 * [Latihan 1](https://github.com/kyuurazz/Labspy06/#latihan-1) | [Source Code](https://github.com/kyuurazz/Labspy06/blob/master/src/latihan1.py)
 * [Praktikum](https://github.com/kyuurazz/Labspy06/#praktikum) | [Source Code](https://github.com/kyuurazz/Labspy06/blob/master/src/praktikum.py)
